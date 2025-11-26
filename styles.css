@@ -1,3 +1,7 @@
+.text-display-block {
+  display: block;
+}
+
 .text-green {
   color: green;
 }
