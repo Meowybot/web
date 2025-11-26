@@ -1,12 +1,12 @@
-.text-display-block {
+.display-block {
   display: block;
 }
 
-.text-green {
+.color-green {
   color: green;
 }
 
-.text-blue {
+.color-blue {
   color: blue;
 }
 
@@ -26,8 +26,12 @@
   color: #000000;
 }
 
-.body-pink{
+.bgcol-pink {
   background-color: pink;
+}
+
+.bgcol-aquamarine {
+  background-color: aquamarine;
 }
 
 @keyframes anim-shake {
