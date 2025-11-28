@@ -58,6 +58,34 @@ div.meowy {
 }
 
 @media (prefers-color-scheme: dark) {
+  h1.meowy {
+    color: lawngreen;
+  }
+
+  h2.meowy {
+    color: lawngreen;
+  }
+
+  h3.meowy {
+    color: lawngreen;
+  }
+
+  h4.meowy {
+    color: lawngreen;
+  }
+
+  h5.meowy {
+    color: lawngreen;
+  }
+  
+  h6.meowy {
+    color: lawngreen;
+  }
+  
+  p.meowy {
+    color: white;
+  }
+
   body.meowy {
     background-color: purple;
   }
