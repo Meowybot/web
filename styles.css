@@ -52,6 +52,11 @@ body.meowy {
   background-color: pink;
 }
 
+div.meowy {
+  background-color: pink;
+  width: 100%;
+}
+
 /*Special effects*/
 
 @keyframes anim-shake {
