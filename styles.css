@@ -1,3 +1,9 @@
+/*Styles for all of one element*/
+
+p {
+  max-width: 64ch;
+}
+
 /*Custom Styles*/
 
 a.meowy {
@@ -108,5 +114,3 @@ div.meowy {
 .effects-shaky {
   animation: anim-shake 0.2s infinite;
 }
-
-/*Styles for all of one element*/
